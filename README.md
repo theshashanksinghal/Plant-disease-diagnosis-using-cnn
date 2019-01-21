@@ -1,2 +1,2 @@
 # PLANT-DISEASE-DIAGNOSIS-USING-CNN
-Detect disease from camera clicked photo of a leaf (apple,peach,corn,potato) using CNN
+Visual plant Disease detection using CNN.Plants Considered - Apple, Peach, Corn, Potato
